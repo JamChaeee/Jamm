@@ -1,0 +1,13 @@
+typhoon = input ("Enter sustained winds :")
+x = float(typhoon)
+
+if   x >=220:
+     print("Super Typhoon")
+elif x >=118:
+     print("Typhoon")
+elif x >=89:
+     print("Severe Tropical Typhoon")
+elif x >=62:
+     print("Tropical Storm")
+else:
+     print("Tropical  Depression")
