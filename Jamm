@@ -1,0 +1,23 @@
+name = "Jan Aldrin Madamba"
+animal = "Bird"
+reason = "I believe I can fly"
+hobby = "Gaming"
+Profession = "Game Developer"
+
+
+print("I am {}.".format(name))
+print("My spirit animal is {}.".format(animal))
+print("because{}.".format(reason))
+print("When not in school, I love to {}.".format(hobby))
+print("I dream of being a/an {} in the future.".format(Profession))
+
+data = {
+
+ "name" : "Jan Aldrin",
+ "animal" : "Bird",
+ "reason" : "I believe I can fly",
+ "hobby" : "Gaming",
+ "Profession" : "Game Developer",
+ }
+
+
